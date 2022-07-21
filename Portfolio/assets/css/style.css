@@ -48,6 +48,10 @@ ul {
   margin: 40px;
 }
 
+.contactMeHeader {
+  padding-bottom: 50px;
+}
+
 .flex-container {
   display: flex;
   justify-content: space-between;

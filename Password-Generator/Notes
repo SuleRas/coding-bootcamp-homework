@@ -1,0 +1,10 @@
+4 Criteria: lowercase, uppercase, numbers, special characters
+
+User side:
+-Clicks on generate button
+-Prompt with the question of length of password
+-Another 4 questions: which criteria user want to apply
+-Display of password
+
+To Remember:
+Characters should be >=8 < 128
